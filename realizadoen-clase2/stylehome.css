@@ -1,0 +1,24 @@
+body{
+    background-color: khaki;
+
+}
+nav{
+ position: fixed;
+ width: 120px;
+ height: 100%;
+ background-color: dimgray;
+
+}
+nav a{
+    display: block;
+    color: darkkhaki;
+    text-decoration: none;
+    margin-top: 1%;
+    margin-left: 5px;
+}
+.home{
+    background-color: coral;
+    color: crimson;
+    margin-right: 45px;
+    margin-top: 5px;
+}
