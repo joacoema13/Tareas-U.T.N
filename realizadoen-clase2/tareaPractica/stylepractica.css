@@ -6,5 +6,48 @@ body{
 
 }
 header{
-    background-image: url(../../realizadoen-clase1/spider-man.jpg);
+    background-image: url(./mutlimedia-img/header-img.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 80px 0px;
+}
+header h1 {
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-family: italic, sans-serif;
+    font-size: 24px;
+}
+.nav-iten{
+    margin: 5px 5px;
+    padding-left: 5px;
+}
+.nav-iten a{
+    text-decoration: none;
+    color: aliceblue;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+main h2 {
+    font-size: 30px;
+    letter-spacing: 2px;
+    padding-bottom: 40px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+    padding: 60px;
+    gap: 40px;
+}
+.container div img{
+    }
+footer{
+    background-color: rgb(138, 136, 136);
+    padding: 50px opx;
 }
