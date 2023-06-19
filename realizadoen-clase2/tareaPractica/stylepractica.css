@@ -48,6 +48,15 @@ main h2 {
 .container div img{
     }
 footer{
-    background-color: rgb(138, 136, 136);
-    padding: 50px opx;
+    background-color: rgb(211, 210, 210);
+    padding: 60px opx;
+}
+footer p{
+    margin-left: 20px;
+}
+footer section div{
+    background-color: rgb(12, 12, 12);
+    margin: 5px 5px 5px 50px;
+    width: 90%;
+    height: 5px;
 }
